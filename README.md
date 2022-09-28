@@ -33,14 +33,7 @@ Recommendation
 
 Evaluation
 
-You can get the data and the dataset description for this  project here [http://bit.ly/autolib_dataset) (Links to an external site) and here respectively [Link] (Links to an external site.).  
+You can get the data and the dataset description for this  project here [http://bit.ly/autolib_dataset).
 
-The dataset contains data collected for a period of 9 days. The dataset may take a bit of some time to load [~ 10 minutes]. 
-
-Hint:
-
-To compute usage, we will need to understand that we have to join successive (in time) measures/counters for a given station, as the difference will tell whether a car was picked up, returned, or nothing happened.
-
-The CRISP-DM methodology will guide while working on the Data Report. The Data Report has an objective account, with insights majorly coming from the dataset. However, you can refer to external information for supporting information. 
 
 
